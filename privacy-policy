@@ -22,7 +22,6 @@ O usuário poderá, opcionalmente, inserir:
 - nome;
 - CPF;
 - data de nascimento;
-- endereços;
 - informações de habitualidade;
 - dados relacionados a armamentos;
 - registros;
@@ -107,9 +106,7 @@ Nos termos da Lei Geral de Proteção de Dados (LGPD), o usuário poderá solici
 - confirmação da existência de tratamento;
 - acesso aos dados;
 - correção de informações;
-- anonimização ou exclusão;
-- portabilidade;
-- revogação de consentimento;
+- exclusão completa;
 - informações sobre compartilhamento de dados.
 
 8. EXCLUSÃO DE DADOS
