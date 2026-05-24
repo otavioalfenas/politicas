@@ -1,48 +1,140 @@
-**Política de Privacidade do Clube do CAC**
+POLÍTICA DE PRIVACIDADE
 
-Esta Política de Privacidade descreve como o Clube do CAC ("nós", "nosso" ou "nos") coleta, usa e compartilha informações pessoais quando você utiliza nosso aplicativo móvel e serviços relacionados (o "Serviço").
+1. INTRODUÇÃO
 
-**Informações Coletadas**
+Esta Política de Privacidade descreve como os dados pessoais dos usuários são coletados, utilizados, armazenados e protegidos durante a utilização do aplicativo.
 
-Podemos coletar as seguintes informações pessoais quando você usa nosso Serviço:
-- Informações de registro: Nome de usuário, endereço de e-mail e senha.
-- Informações do perfil: Seu nome, foto de perfil e outras informações que você escolher fornecer.
-- Dados de localização: Se você optar por compartilhar sua localização, podemos coletar informações sobre sua localização geográfica.
-- Informações sobre transações: Se você realizar transações através do nosso Serviço, podemos coletar informações necessárias para processar essas transações.
-- Outras informações: Quaisquer outras informações que você escolher fornecer voluntariamente ao usar nosso Serviço.
+O aplicativo foi desenvolvido com foco em privacidade, permitindo que a maior parte das informações seja fornecida opcionalmente pelo próprio usuário.
 
-**Uso das Informações**
+2. DADOS COLETADOS
 
-Utilizamos as informações coletadas para os seguintes propósitos:
-- Fornecer e manter nosso Serviço.
-- Personalizar e melhorar nosso Serviço.
-- Comunicar-nos com você sobre o Serviço.
-- Processar transações e fornecer suporte ao cliente.
-- Cumprir com obrigações legais.
+2.1 DADOS DE AUTENTICAÇÃO
 
-**Compartilhamento de Informações**
+Quando o usuário utiliza login social (Google ou Facebook), poderão ser recebidos dados básicos de autenticação, incluindo:
+- nome;
+- endereço de e-mail;
+- identificador da conta;
+- foto de perfil disponibilizada pelo provedor.
 
-Não compartilhamos suas informações pessoais com terceiros, exceto nas seguintes circunstâncias:
-- Com seu consentimento.
-- Com prestadores de serviços terceirizados que nos auxiliam na prestação do Serviço.
-- Quando exigido por lei ou para proteger nossos direitos legais.
+2.2 DADOS INFORMADOS VOLUNTARIAMENTE
 
-**Segurança**
+O usuário poderá, opcionalmente, inserir:
+- nome;
+- CPF;
+- data de nascimento;
+- endereços;
+- informações de habitualidade;
+- dados relacionados a armamentos;
+- registros;
+- informações de clubes;
+- documentos e anexos;
+- imagens e outros arquivos.
 
-Tomamos medidas razoáveis para proteger suas informações pessoais contra acesso não autorizado, alteração, divulgação ou destruição. Todas as informações são criptografadas para garantir maior segurança.
+O preenchimento dessas informações não é obrigatório para utilização básica do aplicativo.
 
-**Limitação de Responsabilidade**
+2.3 DADOS DE ARMAMENTOS
 
-Não nos responsabilizamos por perda de senha ou uso indevido do aplicativo. Os usuários são responsáveis por manter suas credenciais de login em segurança.
+O aplicativo poderá armazenar informações relacionadas a armamentos cadastrados pelo próprio usuário, incluindo:
+- número de série;
+- número SIGMA;
+- registro;
+- calibre;
+- marca;
+- tipo;
+- datas relacionadas ao armamento.
 
-**Idade Mínima**
+Essas informações são inseridas exclusivamente por iniciativa do usuário.
 
-Nosso Serviço destina-se apenas a usuários maiores de 18 anos. Menores de idade não devem utilizar nosso Serviço.
+2.4 ARQUIVOS E DOCUMENTOS
 
-**Atualizações nesta Política de Privacidade**
+O usuário poderá anexar documentos, imagens e arquivos relacionados às funcionalidades do aplicativo.
 
-Esta Política de Privacidade pode ser atualizada ocasionalmente. Recomendamos que você revise esta página periodicamente para quaisquer alterações. A continuação do uso do Serviço após a publicação de alterações nesta Política de Privacidade constitui sua aceitação dessas alterações.
+Os arquivos enviados serão armazenados exclusivamente para disponibilização das funcionalidades solicitadas pelo usuário.
 
-Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco em [inserir endereço de contato].
+2.5 DADOS TÉCNICOS
 
-**Última atualização: [data da última atualização]**
+Poderão ser coletados automaticamente:
+- endereço IP;
+- identificadores do dispositivo;
+- informações de autenticação;
+- registros de acesso;
+- informações de sessão;
+- logs de utilização.
+
+3. FINALIDADE DO TRATAMENTO DOS DADOS
+
+Os dados poderão ser utilizados para:
+- autenticação do usuário;
+- funcionamento das funcionalidades do aplicativo;
+- armazenamento e organização das informações cadastradas;
+- sincronização de dados entre dispositivos;
+- segurança da plataforma;
+- prevenção a fraudes e acessos indevidos;
+- suporte técnico;
+- cumprimento de obrigações legais.
+
+4. BASE LEGAL
+
+O tratamento dos dados pessoais poderá ocorrer com fundamento em:
+- execução do contrato e prestação do serviço;
+- legítimo interesse;
+- cumprimento de obrigação legal;
+- consentimento do usuário, quando aplicável.
+
+5. COMPARTILHAMENTO DE DADOS
+
+O aplicativo não comercializa dados pessoais dos usuários.
+
+Os dados poderão ser compartilhados apenas:
+- com provedores de infraestrutura tecnológica e armazenamento;
+- mediante obrigação legal;
+- por determinação de autoridade competente;
+- para proteção dos direitos da plataforma.
+
+6. ARMAZENAMENTO E SEGURANÇA
+
+O aplicativo adota medidas técnicas e administrativas razoáveis para proteção dos dados armazenados, incluindo:
+- controle de acesso;
+- autenticação;
+- monitoramento de segurança;
+- proteção contra acessos não autorizados.
+
+Apesar das medidas adotadas, nenhum ambiente digital é completamente livre de riscos.
+
+7. DIREITOS DO USUÁRIO
+
+Nos termos da Lei Geral de Proteção de Dados (LGPD), o usuário poderá solicitar:
+- confirmação da existência de tratamento;
+- acesso aos dados;
+- correção de informações;
+- anonimização ou exclusão;
+- portabilidade;
+- revogação de consentimento;
+- informações sobre compartilhamento de dados.
+
+8. EXCLUSÃO DE DADOS
+
+O usuário poderá solicitar a exclusão da conta e dos dados armazenados.
+
+Algumas informações poderão ser mantidas temporariamente para:
+- cumprimento de obrigações legais;
+- prevenção a fraudes;
+- exercício regular de direitos;
+- segurança da plataforma.
+
+9. RETENÇÃO DE DADOS
+
+Os dados serão armazenados pelo período necessário para:
+- execução das funcionalidades do aplicativo;
+- cumprimento de obrigações legais;
+- proteção da plataforma e dos usuários.
+
+10. ALTERAÇÕES DESTA POLÍTICA
+
+Esta Política de Privacidade poderá ser atualizada periodicamente.
+
+A versão vigente estará sempre disponível no aplicativo.
+
+11. CONTATO
+
+Solicitações relacionadas à privacidade e proteção de dados poderão ser realizadas por meio do canal de contato disponibilizado no aplicativo.
