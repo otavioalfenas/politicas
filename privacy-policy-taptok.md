@@ -144,15 +144,41 @@ Políticas de terceiros (referência):
 
 ---
 
-## 11. Segurança
+## 11. Como excluir sua conta (passo a passo)
 
-11.1. Adotamos medidas técnicas e organizacionais razoáveis, incluindo autenticação por provedores, regras de acesso no banco de dados e comunicação segura.
+Você pode excluir sua conta diretamente no aplicativo Tap Tok. A exclusão remove a autenticação associada e os dados de perfil/recorde sob nossa gestão (observados prazos técnicos e obrigações legais de retenção, se houver). **Essa ação é permanente e não pode ser desfeita.**
 
-11.2. Nenhum sistema é totalmente isento de riscos. Você também deve proteger o acesso à sua conta Google/Apple.
+### No aplicativo
+
+1. Abra o **Tap Tok** e faça login com Google ou Apple.
+2. Na tela inicial (**Home**), toque no seu **perfil** / avatar para abrir a tela **Perfil**.
+3. Role até o final da tela e toque em **Excluir conta**.
+4. Leia o aviso de confirmação (conta, perfil e recorde serão removidos).
+5. Toque em **Excluir** para confirmar (ou **Cancelar** para desistir).
+6. Se o sistema pedir, confirme novamente o login com Google ou Apple (reautenticação de segurança).
+7. Aguarde a mensagem de confirmação. Você será desconectado e voltará à tela de login.
+
+### O que é removido
+
+- conta no Firebase Authentication;
+- perfil e melhor recorde no banco de dados sob nosso controle;
+- sua participação no ranking vinculada a essa conta.
+
+### Se não conseguir excluir pelo app
+
+Envie um e-mail para **otavioalfenas@gmail.com** com o assunto “Exclusão de conta — Tap Tok”, informando o e-mail da conta usada no login. Responderemos e processaremos o pedido no prazo razoável previsto na LGPD.
 
 ---
 
-## 12. Seus direitos como titular (LGPD)
+## 12. Segurança
+
+12.1. Adotamos medidas técnicas e organizacionais razoáveis, incluindo autenticação por provedores, regras de acesso no banco de dados e comunicação segura.
+
+12.2. Nenhum sistema é totalmente isento de riscos. Você também deve proteger o acesso à sua conta Google/Apple.
+
+---
+
+## 13. Seus direitos como titular (LGPD)
 
 Você pode solicitar, na medida prevista em lei:
 
@@ -166,11 +192,11 @@ Você pode solicitar, na medida prevista em lei:
 - revogação do consentimento, quando aplicável;
 - oposição a tratamentos realizados com fundamento em legítimo interesse, nos termos da lei.
 
-No Tap Tok, parte desses direitos pode ser exercida diretamente pelo logout ou pela exclusão de conta na tela de Perfil. Para demais solicitações, entre em contato pelos canais indicados abaixo.
+No Tap Tok, parte desses direitos pode ser exercida diretamente pelo logout ou pela exclusão de conta na tela de Perfil (veja a seção 11). Para demais solicitações, entre em contato pelos canais indicados abaixo.
 
 ---
 
-## 13. Cookies e tecnologias semelhantes
+## 14. Cookies e tecnologias semelhantes
 
 O Tap Tok é um aplicativo móvel e não opera como site web tradicional. Ainda assim, SDKs de autenticação, infraestrutura e publicidade podem utilizar identificadores técnicos necessários ao funcionamento, à segurança e à veiculação de anúncios.
 
@@ -178,19 +204,19 @@ Se esta Política for publicada em uma página web, essa página poderá usar co
 
 ---
 
-## 14. Crianças e adolescentes
+## 15. Crianças e adolescentes
 
 O Aplicativo não é direcionado à coleta intencional de dados de crianças sem o tratamento adequado exigido pela legislação. Responsáveis devem supervisionar o uso por menores.
 
 ---
 
-## 15. Alterações desta Política
+## 16. Alterações desta Política
 
 Podemos atualizar esta Política para refletir mudanças no Aplicativo, na legislação ou em práticas de tratamento. A versão atualizada será disponibilizada nesta página e/ou no próprio Aplicativo, com indicação da data de atualização.
 
 ---
 
-## 16. Contato
+## 17. Contato
 
 Para exercer direitos ou esclarecer dúvidas sobre privacidade e proteção de dados do Tap Tok, entre em contato:
 
