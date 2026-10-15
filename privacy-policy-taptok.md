@@ -1,228 +1,42 @@
 # Política de Privacidade — Tap Tok
 
-**Última atualização:** 27 de setembro de 2026
+POLÍTICA DE PRIVACIDADE
 
-Esta Política de Privacidade (“Política”) explica como o **Tap Tok** (“Aplicativo”, “nós” ou “nosso”) coleta, utiliza, armazena, compartilha e protege dados pessoais, em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 — LGPD) e demais normas aplicáveis.
+Última atualização: 14/10/2026
 
-Ao utilizar o Tap Tok e aceitar esta Política, você declara ciência sobre os tratamentos aqui descritos.
+Esta Política descreve como o Tap Tok trata dados pessoais conforme a LGPD (Lei 13.709/2018). Ao usar o App e aceitar, você declara ciência.
 
----
+1. ESCOPO
+Dados para autenticação, perfil, ranking, busca, duelos 1v1, notificações e operação. Terceiros: Google, Apple e Firebase/Google Cloud (políticas próprias).
 
-## 1. Controlador e escopo
+2. DADOS
+Conta: UID Firebase Auth, nome, e-mail.
+Jogo: recorde e data; vitórias/derrotas/empates; histórico de desafios; datas do perfil.
+Técnicos: sessão/auth; token FCM (se autorizado); logs de erro quando habilitados.
+Não pedimos deliberadamente dados sensíveis.
 
-1.1. Esta Política aplica-se ao uso do aplicativo móvel Tap Tok e aos dados tratados para autenticação, perfil, ranking, anúncios e operação do jogo.
+3. FONTES E FINALIDADES
+Fontes: login Google/Apple; uso do App; provedores de nuvem.
+Finalidades: autenticação; perfil; recorde; ranking; busca/duelos; notificações de desafios; logout/exclusão; prevenção a fraude; obrigações legais; estabilidade e segurança.
 
-1.2. O Tap Tok utiliza serviços de terceiros para autenticação, armazenamento e publicidade (em especial Google, Apple, Firebase/Google Cloud e Google AdMob), que possuem políticas próprias.
+4. BASES LEGAIS
+Contrato (art. 7º, V); legítimo interesse (art. 7º, IX); obrigação legal (art. 7º, II); consentimento quando aplicável (art. 7º, I), ex.: notificações.
 
----
+5. RANKING E DUELOS
+Nome, foto e recorde podem ser visíveis a usuários autenticados. Em duelos, placares também. Necessário à função competitiva. Alternativa: parar de usar ou excluir a conta.
 
-## 2. Quais dados pessoais tratamos
+6. COMPARTILHAMENTO E TRANSFERÊNCIA
+Não vendemos dados. Podemos compartilhar com Google (Auth, Firestore, Messaging), Apple (login) e autoridades quando exigido. Dados podem ser processados fora do Brasil. Políticas: policies.google.com/privacy | apple.com/legal/privacy
 
-### 2.1. Dados de identificação e conta
+7. RETENÇÃO E EXCLUSÃO
+Dados mantidos enquanto a conta estiver ativa e para as finalidades desta Política. No App: Home → perfil → Excluir conta → confirme (re autentique se pedido). Ação permanente. Remove Auth, perfil, recorde, tokens e ranking sob nosso controle, ressalvados prazos técnicos e obrigações legais. Se falhar no App: otavioalfenas@gmail.com, assunto “Exclusão de conta — Tap Tok”.
 
-- identificador único da conta (UID do Firebase Authentication);
-- nome de exibição;
-- endereço de e-mail (quando fornecido pelo provedor de login);
-- foto de perfil (URL, quando fornecida pelo provedor);
-- provedor de autenticação utilizado (Google ou Apple).
+8. SEGURANÇA E DIREITOS
+Medidas razoáveis; nenhum sistema é isento de risco. Direitos LGPD: confirmação, acesso, correção, eliminação, portabilidade (quando cabível), informação sobre compartilhamentos, revogação de consentimento e oposição, nos termos da lei. Exercício parcial via logout/exclusão; demais pedidos pelo e-mail acima.
 
-### 2.2. Dados de jogo e ranking
+9. OUTROS
+SDKs podem usar identificadores técnicos. Não coletamos intencionalmente dados de crianças sem o tratamento legal. Política pode ser atualizada; versão vigente indica a data.
 
-- melhor pontuação (recorde);
-- data/hora do recorde (quando registrada);
-- datas de criação e atualização do perfil.
+Contato: octech@gmail.com
 
-### 2.3. Dados técnicos e de dispositivo
-
-Podem ser tratados indiretamente pelos SDKs e pela infraestrutura:
-
-- informações necessárias à autenticação e segurança da sessão;
-- identificadores técnicos de publicidade/dispositivo usados por redes de anúncios (quando aplicável);
-- registros técnicos de erro ou diagnóstico, quando habilitados pelos serviços utilizados.
-
-### 2.4. Dados sensíveis
-
-Não solicitamos, de forma deliberada, dados sensíveis (como origem racial, saúde, biometria etc.) para uso do jogo.
-
----
-
-## 3. Fontes dos dados
-
-3.1. Dados fornecidos ou autorizados por você no login com Google ou Apple.
-
-3.2. Dados gerados pelo uso do Aplicativo (ex.: recorde e atualizações de perfil).
-
-3.3. Dados processados por provedores de autenticação, nuvem e publicidade no fluxo de login, sincronização e exibição de anúncios.
-
----
-
-## 4. Finalidades do tratamento
-
-Tratamos dados pessoais para:
-
-- a) autenticar e manter sua sessão de forma segura;
-- b) criar e manter seu perfil no Tap Tok;
-- c) registrar e atualizar seu melhor recorde;
-- d) exibir ranking e comparação entre jogadores autenticados;
-- e) permitir logout e exclusão de conta;
-- f) exibir anúncios (incluindo banners) por meio de parceiros de publicidade;
-- g) prevenir fraude, abuso e trapaças;
-- h) cumprir obrigações legais e regulatórias;
-- i) melhorar estabilidade, segurança e experiência do Aplicativo.
-
----
-
-## 5. Bases legais (LGPD)
-
-Dependendo da operação, o tratamento pode se fundamentar em:
-
-- execução de contrato ou de procedimentos preliminares relacionados ao uso do Aplicativo (art. 7º, V);
-- legítimo interesse, para segurança, prevenção a fraudes, publicidade contextual/medida e melhoria do serviço, com salvaguardas (art. 7º, IX);
-- cumprimento de obrigação legal ou regulatória (art. 7º, II);
-- consentimento, quando aplicável e solicitado de forma específica (art. 7º, I).
-
----
-
-## 6. Exibição no ranking
-
-6.1. Nome, foto (se houver) e recorde podem ser visíveis a outros usuários autenticados no ranking.
-
-6.2. Essa exposição é necessária para a funcionalidade competitiva do jogo.
-
-6.3. Se não desejar essa exibição, você pode deixar de usar o Aplicativo ou excluir sua conta.
-
----
-
-## 7. Publicidade
-
-7.1. O Tap Tok pode exibir anúncios por meio do Google AdMob e serviços associados.
-
-7.2. Esses parceiros podem coletar ou receber identificadores técnicos e dados de uso conforme suas próprias políticas, para veicular, medir e personalizar anúncios, quando permitido.
-
-7.3. Você pode gerenciar preferências de anúncios nas configurações do dispositivo e/ou nas ferramentas disponibilizadas pelo Google, quando disponíveis.
-
----
-
-## 8. Compartilhamento de dados
-
-8.1. **Não vendemos** seus dados pessoais.
-
-8.2. Podemos compartilhar dados com:
-
-- Google (Firebase Authentication, Cloud Firestore, Google AdMob e serviços associados);
-- Apple (quando o login for feito com Apple);
-- autoridades públicas, quando houver obrigação legal ou ordem válida.
-
-8.3. Os provedores atuam segundo suas próprias políticas e condições contratuais/operacionais.
-
-Políticas de terceiros (referência):
-
-- [Política de Privacidade do Google](https://policies.google.com/privacy)
-- [Privacidade da Apple](https://www.apple.com/legal/privacy/)
-
----
-
-## 9. Transferência internacional
-
-9.1. Como utilizamos Firebase/Google Cloud, autenticação Google/Apple e AdMob, dados podem ser processados em servidores localizados fora do Brasil.
-
-9.2. Nessas hipóteses, o tratamento ocorre no contexto de serviços de provedores globais, observando as salvaguardas cabíveis e a legislação aplicável.
-
----
-
-## 10. Armazenamento e retenção
-
-10.1. Mantemos os dados enquanto sua conta estiver ativa e pelo tempo necessário para cumprir as finalidades desta Política.
-
-10.2. Após a exclusão da conta pelo Aplicativo, removemos os dados de perfil e recorde sob nosso controle no Firestore e a conta no Firebase Authentication, ressalvados:
-
-- prazos técnicos de propagação;
-- obrigações legais de retenção;
-- necessidade de exercício regular de direitos em processo judicial, administrativo ou arbitral.
-
-10.3. Cópias de segurança de infraestrutura de terceiros podem existir temporariamente conforme políticas desses provedores.
-
----
-
-## 11. Como excluir sua conta (passo a passo)
-
-Você pode excluir sua conta diretamente no aplicativo Tap Tok. A exclusão remove a autenticação associada e os dados de perfil/recorde sob nossa gestão (observados prazos técnicos e obrigações legais de retenção, se houver). **Essa ação é permanente e não pode ser desfeita.**
-
-### No aplicativo
-
-1. Abra o **Tap Tok** e faça login com Google ou Apple.
-2. Na tela inicial (**Home**), toque no seu **perfil** / avatar para abrir a tela **Perfil**.
-3. Role até o final da tela e toque em **Excluir conta**.
-4. Leia o aviso de confirmação (conta, perfil e recorde serão removidos).
-5. Toque em **Excluir** para confirmar (ou **Cancelar** para desistir).
-6. Se o sistema pedir, confirme novamente o login com Google ou Apple (reautenticação de segurança).
-7. Aguarde a mensagem de confirmação. Você será desconectado e voltará à tela de login.
-
-### O que é removido
-
-- conta no Firebase Authentication;
-- perfil e melhor recorde no banco de dados sob nosso controle;
-- sua participação no ranking vinculada a essa conta.
-
-### Se não conseguir excluir pelo app
-
-Envie um e-mail para **otavioalfenas@gmail.com** com o assunto “Exclusão de conta — Tap Tok”, informando o e-mail da conta usada no login. Responderemos e processaremos o pedido no prazo razoável previsto na LGPD.
-
----
-
-## 12. Segurança
-
-12.1. Adotamos medidas técnicas e organizacionais razoáveis, incluindo autenticação por provedores, regras de acesso no banco de dados e comunicação segura.
-
-12.2. Nenhum sistema é totalmente isento de riscos. Você também deve proteger o acesso à sua conta Google/Apple.
-
----
-
-## 13. Seus direitos como titular (LGPD)
-
-Você pode solicitar, na medida prevista em lei:
-
-- confirmação da existência de tratamento;
-- acesso aos dados;
-- correção de dados incompletos, inexatos ou desatualizados;
-- anonimização, bloqueio ou eliminação de dados desnecessários ou excessivos;
-- portabilidade, quando aplicável;
-- informação sobre compartilhamentos;
-- eliminação dos dados tratados com consentimento, quando essa for a base legal;
-- revogação do consentimento, quando aplicável;
-- oposição a tratamentos realizados com fundamento em legítimo interesse, nos termos da lei.
-
-No Tap Tok, parte desses direitos pode ser exercida diretamente pelo logout ou pela exclusão de conta na tela de Perfil (veja a seção 11). Para demais solicitações, entre em contato pelos canais indicados abaixo.
-
----
-
-## 14. Cookies e tecnologias semelhantes
-
-O Tap Tok é um aplicativo móvel e não opera como site web tradicional. Ainda assim, SDKs de autenticação, infraestrutura e publicidade podem utilizar identificadores técnicos necessários ao funcionamento, à segurança e à veiculação de anúncios.
-
-Se esta Política for publicada em uma página web, essa página poderá usar cookies essenciais de hospedagem/analytics do provedor do site, conforme a configuração da plataforma utilizada.
-
----
-
-## 15. Crianças e adolescentes
-
-O Aplicativo não é direcionado à coleta intencional de dados de crianças sem o tratamento adequado exigido pela legislação. Responsáveis devem supervisionar o uso por menores.
-
----
-
-## 16. Alterações desta Política
-
-Podemos atualizar esta Política para refletir mudanças no Aplicativo, na legislação ou em práticas de tratamento. A versão atualizada será disponibilizada nesta página e/ou no próprio Aplicativo, com indicação da data de atualização.
-
----
-
-## 17. Contato
-
-Para exercer direitos ou esclarecer dúvidas sobre privacidade e proteção de dados do Tap Tok, entre em contato:
-
-- **E-mail:** otavioalfenas@gmail.com
-- Ou pelos canais oficiais disponibilizados na loja de aplicativos / suporte do produto.
-
----
-
-Ao utilizar o Tap Tok e/ou marcar o aceite na tela de login, você declara ter lido e compreendido esta Política de Privacidade.
+Ao usar o Tap Tok e/ou aceitar no login, você declara ter lido esta Política.
